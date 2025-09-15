@@ -24,7 +24,7 @@ Website giúp giới thiệu về bản thân, kỹ năng, dự án, cũng như 
 
 ## 📸 Demo
 👉 Xem trực tiếp tại GitHub Pages:  
-https://github.com/LeQuangThang205/Portfolio/tree/main
+https://lequangthang205.github.io/Portfolio/
 
 ---
 
